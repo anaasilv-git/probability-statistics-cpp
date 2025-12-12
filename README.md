@@ -1,3 +1,9 @@
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![Focus](https://img.shields.io/badge/focus-statistics-green)
+![Status](https://img.shields.io/badge/status-learning-yellow)
+
+
+
 # 📊 Probability & Statistics — C++
 
 Este repositório reúne estudos práticos de **Probabilidade e Estatística**, com foco em **resolução de problemas do HackerRank**, utilizando **C++**.
